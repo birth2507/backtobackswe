@@ -237,7 +237,7 @@ class BottomUp {
 
   2.) Dynamic Programming with Optimality Criterion...whatever that is
   Time Complexity: O( totalEggs * totalFloors )
-
+bhai bhut badhiya
   3.) The Mathematical Approach...k
   Time Complexity: O( totalEggs * log( totalFloors ) )
 
